@@ -1,0 +1,11 @@
+Project;#commits;#authors;From;To;#stars;#forks;LastGHCommitDate;LongestGapStart;LongestGapEnd;LongestGapLength;NumCommitsAfterLastGap;ActivityPattern;NumberOfGapsInTimeline
+fcambus_telize;338;13;1377084651;1750791632;873;138;2026/07/09;2024-01;2025-05;17;3;declining;9
+fkong7_2dunet;397;9;1553211731;1748543205;15;1;2025/02/28;2022-03;2024-04;26;7;declining;3
+geodynamics_aspect;23494;347;1318199520;1776492642;311;277;2026/09/28;N/A;N/A;0;23494;cyclical;0
+hyperopt_hyperopt-sklearn;660;53;1361290194;1742634354;1647;273;2025/03/22;2014-11;2016-04;18;464;irregular;9
+maxulysse_nf-core_modules;8188;619;1564131265;1761924543;1;0;2026/09/11;2019-08;2019-11;4;8180;rising;1
+mpmccode_mpmc;654;43;1330027139;1761071129;53;13;2025/10/21;2024-12;2025-09;10;4;irregular;10
+ohdsi_webapi;7861;211;1417636192;1762475208;152;184;2026/09/28;N/A;N/A;0;7861;declining;0
+omniscale_imposm3;1270;71;1356527250;1762291878;774;161;2026/08/05;2021-11;2022-06;8;95;declining;6
+opensafely_long-covid-risk-factors-and-prediction;587;6;1636586992;1732624252;1;0;2024/11/26;2023-08;2024-10;15;1;declining;1
+ziotom78_healpix.jl;742;29;1419267990;1758788511;58;20;2026/06/24;2017-04;2017-12;9;692;irregular;11
