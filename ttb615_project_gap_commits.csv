@@ -1,0 +1,225 @@
+pre/post;prj;commit;author;time;message
+pre;fcambus_telize;cd7ca14c8432af87bbdd3f63ac00b0d1f3643bba;Frederic Cambus <fred@statdns.com>;1669372019;Update documentation to reflect things that changed with the switch to Go.
+pre;fcambus_telize;c90a48c79b8a08eda1d71604f2b83f539097d1cb;Frederic Cambus <fred@statdns.com>;1669372180;Remove remaining configuration and source files from the C version.
+pre;fcambus_telize;a820061557c8f7581d787dc53adda02b4191e038;Frederic Cambus <fred@statdns.com>;1669378298;Bump copyright year to 2022 in country-code3.go.
+pre;fcambus_telize;756b94f814f7807109d6b8847fb7b1159f7cb243;Frederic Cambus <fred@statdns.com>;1669378371;Update version number in all headers, we are heading to 4.0.0.
+pre;fcambus_telize;8b8dd265040c04372953e13fafb3558f1aafba5b;Frederic Cambus <fred@statdns.com>;1673620173;Bump Go version to 1.19 in go.mod and update dependencies.
+pre;fcambus_telize;63dbfca65a6c0d05628efd565c8e75b0134b486f;Frederic Cambus <fred@statdns.com>;1673620274;Bump copyright year to 2023.
+pre;fcambus_telize;c848dd75bcca1931363e0ece8c9aac2209faa0d3;Vincent Young <missuo@pm.me>;1673643881;fix: add line breaks to each output
+pre;fcambus_telize;fc0135b5b978b27aeb3ab5c6356b055db2d9a4a9;Vincent Young <i@yyt.moe>;1673645655;Merge c848dd75bcca1931363e0ece8c9aac2209faa0d3 into 63dbfca65a6c0d05628efd565c8e75b0134b486f
+pre;fcambus_telize;0eff2a659b7039995e77f7477b52f948402e5a03;Frederic Cambus <fred@statdns.com>;1701164867;Allow performing HTTP HEAD method requests on all endpoints.
+pre;fcambus_telize;6dc5ec3157e565776ed5d361756ab1236bf76e3c;Vincent Young <missuo@pm.me>;1701443830;Merge c848dd75bcca1931363e0ece8c9aac2209faa0d3 into 0eff2a659b7039995e77f7477b52f948402e5a03
+post;fcambus_telize;96381b4737bc2f530d2fa9762163152073538b10;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1750437969;"Bump github.com/go-chi/chi/v5 from 5.0.8 to 5.2.2
+
+Bumps [github.com/go-chi/chi/v5](https://github.com/go-chi/chi) from 5.0.8 to 5.2.2.
+- [Release notes](https://github.com/go-chi/chi/releases)
+- [Changelog](https://github.com/go-chi/chi/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/go-chi/chi/compare/v5.0.8...v5.2.2)
+
+---
+updated-dependencies:
+- dependency-name: github.com/go-chi/chi/v5
+  dependency-version: 5.2.2
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>"
+post;fcambus_telize;94022c72b53cb426564fe913b28e2f1dd94b453b;Frederic Cambus <fred@statdns.com>;1750791531;Bump Go version to 1.23 in go.mod and update dependencies.
+post;fcambus_telize;f11833f742dbb414e20524f521aaf638b0daf337;Frederic Cambus <fred@statdns.com>;1750791632;Bump copyright year to 2025.
+pre;fkong7_2dunet;881bc64d490af37926a97c81903ac2d2960edf0b;Fanwei <fanwei_kong@berkeley.edu>;1622504777;Merge branch 'SimVascular' of https://github.com/fkong7/Auto-LV-Modeling into SimVascular
+pre;fkong7_2dunet;00da92b8d49d3b4ca3c1ce1e1d8868a044001a11;Fanwei <fanwei_kong@berkeley.edu>;1623045931;Simulation updates
+pre;fkong7_2dunet;1d4130bea88c3a0650487b45613041d5867147f7;Fanwei <fanwei_kong@berkeley.edu>;1623050661;Adding GUI wrapper
+pre;fkong7_2dunet;0089f838c72a592d21e0c6af39353111c2e9d7c8;Fanwei <fanwei_kong@berkeley.edu>;1623051343;Commit missing files
+pre;fkong7_2dunet;0f10b9fbba23a1e1f171e7c6224afad029fdc562;Fanwei <fanwei_kong@berkeley.edu>;1623051363;Changes for wrapper
+pre;fkong7_2dunet;c0f0b7416437008ca1655e576a350657e29e3cf0;Fanwei <fanwei_kong@berkeley.edu>;1623051371;Merge branch 'SimVascular' of https://github.com/fkong7/Auto-LV-Modeling into SimVascular
+pre;fkong7_2dunet;22e2e6b6e711aef6a89cc4d0c617b89e5f6ef074;Fanwei <fanwei_kong@berkeley.edu>;1623097384;Added wrapper for SV GUI
+pre;fkong7_2dunet;a3e8afe943c1829a7e552c948ab11d81b686f2dc;Fanwei <fanwei_kong@berkeley.edu>;1631751925;Path changes
+pre;fkong7_2dunet;90c0a549005fb0c1250f18b3049448b0930c9c0b;Fanwei <fanwei_kong@berkeley.edu>;1645308084;Updates
+pre;fkong7_2dunet;ba900df5b706382d3b700cfbd78ca65efb75136f;Fanwei <fanwei_kong@berkeley.edu>;1645308086;Merge branch 'SimVascular' of https://github.com/fkong7/Auto-LV-Modeling into SimVascular
+post;fkong7_2dunet;3cc8611b2b8556bb65b42d547d20829e23a68980;Fanwei <fanwei_kong@berkeley.edu>;1715638903;add optional scaling
+post;fkong7_2dunet;1f393b3b710ce0148e2c8edfb5998856b8941c69;Fanwei <fanwei_kong@berkeley.edu>;1715639161;bug fix, natural sort
+post;fkong7_2dunet;8e85ef301cfdf141164bfe387b411b7c56eaf6c8;Fanwei <fanwei_kong@berkeley.edu>;1720464248;improvements in writing mesh motion - able to correct for minor node mismatches
+post;fkong7_2dunet;11aea819c3d8b0b369d83695abdb55efa6a74cf6;Fanwei <fanwei_kong@berkeley.edu>;1726189407;updates for interpolation to find correct correspondence
+post;fkong7_2dunet;0039e33d41ee1d36ba961a791afc332bd36f61bc;Fanwei <fanwei_kong@berkeley.edu>;1726256054;fixes added cubic spline from scipy
+post;fkong7_2dunet;ca8ae41f512aee56b7159a25dab28ef9158775cc;Fanwei Kong <31931939+fkong7@users.noreply.github.com>;1740763186;Update README.md
+post;fkong7_2dunet;b1e9f52a82526e7982226beab15211fa8163f126;Fanwei <fanwei_kong@berkeley.edu>;1748543205;option to complete the cardiac cycle
+pre;hyperopt_hyperopt-sklearn;c10b6e69d4012adf983acedf08075f87a9287af4;Brent Komer <brent.komer@gmail.com>;1401829799;filling in missing data with newer results
+pre;hyperopt_hyperopt-sklearn;7320974da26ca4022a9126e9678197f55d1bf12e;James Bergstra <james.bergstra@gmail.com>;1401910355;rename rbf gamma param
+pre;hyperopt_hyperopt-sklearn;9ca6e993160562cd89e65618bb46ad7d432f35a8;James Bergstra <james.bergstra@gmail.com>;1401915106;tweaked knn bound to avoid rounding error
+pre;hyperopt_hyperopt-sklearn;477a83aaab403a0e5946fc73f1117d1de887c5b9;Yannick Hold <x_godsoul@hotmail.com>;1404398798;"Updated setup file to fit new README filename.
+
+Updated setup.py to link long_description to README.md instead of README.txt"
+pre;hyperopt_hyperopt-sklearn;12f854cbd6c54c2b97389dd4fe8fe0c2ee4c2bf4;James Bergstra <james.bergstra@gmail.com>;1404544170;"Merge pull request #31 from soravux/patch-1
+
+Updated setup file to fit new README filename."
+pre;hyperopt_hyperopt-sklearn;450ab4b5e4a5584bfaea62bb78cb38210c33e96a;David Warde-Farley <wardefar@iro.umontreal.ca>;1404943611;Experimental switch over to searchspaces.
+pre;hyperopt_hyperopt-sklearn;47ad1164dbe90ed6c103162280adb1c2ebda800b;David Warde-Farley <d.warde.farley@gmail.com>;1404943726;Merge 450ab4b5e4a5584bfaea62bb78cb38210c33e96a into 12f854cbd6c54c2b97389dd4fe8fe0c2ee4c2bf4
+pre;hyperopt_hyperopt-sklearn;cd65aae69d10169efb15acb2d6c4bdbd0c487b5a;David Warde-Farley <wardefar@iro.umontreal.ca>;1405008584;Error in test_demo, estimator->HyperoptEstimator.
+pre;hyperopt_hyperopt-sklearn;11c7fabcd35140ccb439a735912559ee46098c23;James Bergstra <james.bergstra@gmail.com>;1409842534;Merge 15299ed7fc4d0d391e90f8c9ce70ae13a406e20c into 12f854cbd6c54c2b97389dd4fe8fe0c2ee4c2bf4
+pre;hyperopt_hyperopt-sklearn;01df5dbfce2e76a35edbbeeeb0e0cb85d7ed090f;mlmlm <limklm@gmail.com>;1412608113;Added sklearn regression
+post;hyperopt_hyperopt-sklearn;e88035fec9e6267a1ca99b7ab2c5c08967118fd5;Brent Komer <brent.komer@gmail.com>;1464295034;Merge remote-tracking branch 'upstream/master'
+post;hyperopt_hyperopt-sklearn;59c81b7d9e52e01070e318bad3d0b14505e35a53;Brent Komer <brent.komer@gmail.com>;1464295924;changing gamma parameter of SVM to match new sklearn syntax
+post;hyperopt_hyperopt-sklearn;d6a79fbee9d2d4d93bd68153bc1a0357c6c41a4c;Li Shen <shenli.sam@gmail.com>;1467216960;"Correct hyperparameter search spaces and other improvements
+
+* The default hyperparameters seach spaces are specified so that they
+  shall give reasonably ""good"" solutions for most cases.
+* sklearn regressors are added to the components.py. However, the estimator.py
+  still needs to be modified to evaluate regression.
+* The naming of the variables is made consistent across board.
+* Fix a bug that will make the online learners (e.g. sgd) fail to run when the
+  trial timeout is not specified.
+* Make partial fit an option.
+* Allow specifiying validation size.
+* Misc. changes"
+post;hyperopt_hyperopt-sklearn;b55524baa28436c8c190d4423fe5093150877823;Li Shen <shenli.sam@gmail.com>;1467257065;Auto-format code according to PEP8
+post;hyperopt_hyperopt-sklearn;747dc679dbdf896e249e684ac36874ada65fe66f;Li Shen <shenli.sam@gmail.com>;1467300591;"Make sklearn regressors work with hyperopt
+
+* Make the hyperopt estimator accept regressors.
+* Fix bugs and assertion errors for regressors.
+* Fix PCA number of components error."
+post;hyperopt_hyperopt-sklearn;1e9543e6f92e2a57b2ed4342afef6621e9ef1256;Li Shen <shenli.sam@gmail.com>;1468357245;"Add a time series lag selector for SVM regression
+
+* Add time series lag selector for SVR, which treats lag sizes as
+  hyperparameters. The lag sizes can be specified for both endogenous
+  and exogenous predictors.
+* Define a lag selector class for KNN regression but has not added
+  it to components.py yet.
+* Optimize SVM hyperparameters search space by considering their
+  dependencies. This has only been applied to the SVR lag selector
+  so far.
+* Some code refactoring to make it easier to maintain."
+post;hyperopt_hyperopt-sklearn;02149cf8082e7cc89b49f6e8eca97e976106006d;Li Shen <shenli.sam@gmail.com>;1468431720;"Add KNR lag selector and bug fix
+
+* Add KNN regression lag selector.
+* Fix a bug that failed to identify the underlying learner in a Hyperopt object
+  as a lag selector."
+post;hyperopt_hyperopt-sklearn;a966d8bde53ed436939ec6bcf0b09a616c74d1f4;Li Shen <shenli.sam@gmail.com>;1468440119;Add random forest and extra trees regression lag selectors
+post;hyperopt_hyperopt-sklearn;3393a2236ee1a1ef46a5e474f85532357597aed3;Chandler Watson <chandlerx.watson@intel.com>;1468946322;Apply 2to3 to all files
+post;hyperopt_hyperopt-sklearn;a775a4beb9d71f33c16c63494870857920d4f265;Chandler Watson <chandlerx.watson@intel.com>;1468946529;Clean up after 2to3
+pre;maxulysse_nf-core_modules;8f5a297705fc84e1ab0c959d1379df2fb2db3d94;drpatelh <drhpatel@gmail.com>;1564131265;first commit
+pre;maxulysse_nf-core_modules;ef8c13a7d8866f64af2b21a46d4e2fab752c0693;drpatelh <drhpatel@gmail.com>;1564132747;Fill out repo
+pre;maxulysse_nf-core_modules;eb9aeea7752c49081a838829446faefe55858164;drpatelh <drhpatel@gmail.com>;1564144226;Refine README
+pre;maxulysse_nf-core_modules;c4456ad3345d5222799d1136c99642040dbf255a;drpatelh <drhpatel@gmail.com>;1564144688;Fix links
+pre;maxulysse_nf-core_modules;56608c0ad44aaded8ea1c2bf2a70da3204e012b8;drpatelh <drhpatel@gmail.com>;1564153513;FastQC prototype with docs
+pre;maxulysse_nf-core_modules;adb9074f5508df9e596e2edcc158b2422fc37d02;drpatelh <drhpatel@gmail.com>;1564153609;Typo
+pre;maxulysse_nf-core_modules;44b6e1250db24dd87c6d3619a0a1f7d2f4ca13a8;Phil Ewels <phil.ewels@scilifelab.se>;1564497104;Replace Slack join URL
+pre;maxulysse_nf-core_modules;ada7b5f9a32bb8c11ff5244ec16f557f827aa503;Harshil Patel <drpatelh@users.noreply.github.com>;1564497221;"Merge pull request #5 from ewels/master
+
+Replace Slack join URL"
+post;maxulysse_nf-core_modules;4582ab344c9d10d49c59c2461a3572b47b389f66;Phil Ewels <phil.ewels@scilifelab.se>;1575553963;Add GitHub Actions, put FastQC in to a directory
+post;maxulysse_nf-core_modules;5e4c023edd9f6a82b5d152c4e52168376a120df5;Phil Ewels <phil.ewels@scilifelab.se>;1575555489;Start work on FastQC module files
+post;maxulysse_nf-core_modules;97fbd3264485b2c2fe719bc3c1bcd9d4476eda86;Phil Ewels <phil.ewels@scilifelab.se>;1575556551;"Added samtools sort + index
+
+Added container to FastQC"
+post;maxulysse_nf-core_modules;8837c2b81d7a4d468e22a904047b9012b981a1c2;Phil Ewels <phil.ewels@scilifelab.se>;1575556741;GitHub actions: paths, not path
+post;maxulysse_nf-core_modules;497573fc5d2903ea1ba44c085ba06a763c974d10;Phil Ewels <phil.ewels@scilifelab.se>;1575557050;Refactor GitHub actions workflows
+post;maxulysse_nf-core_modules;af766a9cc749446b53c9e630d7d4274ce56b2eec;Phil Ewels <phil.ewels@scilifelab.se>;1575557618;Added TrimGalore
+post;maxulysse_nf-core_modules;acc4eb0054a72c03a4d7bc49cbf257d1e864e236;Phil Ewels <phil.ewels@scilifelab.se>;1575557852;GitHub actions - run nextflow in a docker image
+post;maxulysse_nf-core_modules;a065ac3532aee3f3d67c76cfe0dab6617141db31;Phil Ewels <phil.ewels@scilifelab.se>;1575558180;Actions: install nextflow
+post;maxulysse_nf-core_modules;d682c6f7a81bb713763898e7e8d7b0944fff6841;Phil Ewels <phil.ewels@scilifelab.se>;1575558492;Workflows: test everything on paths
+post;maxulysse_nf-core_modules;ef486a908b763dd1b296a92bfba04d588dc81c80;Phil Ewels <phil.ewels@scilifelab.se>;1575558568;Use empty dict instead for workflow
+pre;mpmccode_mpmc;69c6771fc446dba7ebcf127ffea112f554e2734d;aehogan <purplepanzer1@gmail.com>;1701720390;update compile.sh for lapack
+pre;mpmccode_mpmc;fd254f39f4d069c658c7b687059e66ecc384c474;aehogan <purplepanzer1@gmail.com>;1701720780;update CMakeLists for lapack
+pre;mpmccode_mpmc;5fcea5315b73f3ba3001ef11ef47f39d4d8b8a28;aehogan <purplepanzer1@gmail.com>;1701721410;add Jeff's fixes for cuda mbvdw, damping options
+pre;mpmccode_mpmc;ebfba9dc1541302b953fa1716204ceaf7d57be54;aehogan <purplepanzer1@gmail.com>;1701797828;update docs
+pre;mpmccode_mpmc;b2f62b0d720c6c52bcd5a5e140dce91f74270a7f;Adam Hogan <purplepanzer1@gmail.com>;1701798025;"Merge pull request #22 from space-group-research/merge_jeff_changes
+
+WIP Merge Changes from Jeff"
+pre;mpmccode_mpmc;47a6245afd9529fcd0e40e29a1b3cf95f314ffb8;aehogan <purplepanzer1@gmail.com>;1702575899;fix compile issues
+pre;mpmccode_mpmc;495aeee69fff41cf65675312b4eb3e04bcac7148;aehogan <purplepanzer1@gmail.com>;1702577910;cuda compile errors
+pre;mpmccode_mpmc;95883cac9e312275e31cfe015fb7bff0f910e305;aehogan <purplepanzer1@gmail.com>;1705431289;fix bug in vdw.cu
+pre;mpmccode_mpmc;d5a8134e37437de8444f244683bca821f004e035;aehogan <purplepanzer1@gmail.com>;1705518456;rename min to min_double to avoid namespace issues, fix small bugs in vdw.cu
+pre;mpmccode_mpmc;4bdfd271ff5c5be0ab876d8dbba9eee52e78c710;aehogan <purplepanzer1@gmail.com>;1731951947;remove exp unscaled damping option
+post;mpmccode_mpmc;b75385c377da55721bbf2f5c95598ce17ef2c27b;Angela <144486389+amshipman117@users.noreply.github.com>;1761070873;"Update c2h4
+
+Fixed carbon masses"
+post;mpmccode_mpmc;79313c4a35f980607bc9ff5e11cf840335ab41e0;Angela <144486389+amshipman117@users.noreply.github.com>;1761070934;Update c2h4p
+post;mpmccode_mpmc;85eda7496e8bb874e2b6ee572033c1b04554ef4c;Adam Hogan <purplepanzer1@gmail.com>;1761071089;"Merge pull request #24 from space-group-research/amshipman117-patch-2
+
+Update c2h4p"
+post;mpmccode_mpmc;bab2c062cc3f32fd0640a7238252bf980d7d0257;Adam Hogan <purplepanzer1@gmail.com>;1761071129;"Merge pull request #23 from space-group-research/amshipman117-patch-1
+
+Update c2h4"
+pre;omniscale_imposm3;535f3c6df5c5b20576a0dade9de5f1c85d3a7b1a;Evgen Bodunov <molind@gmail.com>;1633998592;Merge 221e885c7e7af695a047280d839f14d93652c3b7 into 09b6fdd0ad15fb9906f48540ccd595e6ae4beb9d
+pre;omniscale_imposm3;70f3ee1dc861f1a35c542371c8ac80191f37cb3f;Frédéric Rodrigo <fred.rodrigo@gmail.com>;1633998592;Merge 2c75ed76a5cc0e6bc185f137aa84b348a54ce84a into 09b6fdd0ad15fb9906f48540ccd595e6ae4beb9d
+pre;omniscale_imposm3;7f338e173873080827961f115029724d8c89d1ed;talaj <jiri.drbalek@gmail.com>;1633998592;Merge 18a7fe9a39afe998f1a838c4e039aef610e9ab23 into 09b6fdd0ad15fb9906f48540ccd595e6ae4beb9d
+pre;omniscale_imposm3;89e183cb152977385c6728a71e8ddc01506f8f85;Frédéric Rodrigo <fred.rodrigo@gmail.com>;1633998592;Merge 6c5417cd155ae75fcabfb9eaa7ee6c29c2b81b37 into 09b6fdd0ad15fb9906f48540ccd595e6ae4beb9d
+pre;omniscale_imposm3;8a332f1b03b226c26b0477ba4798c289ac488655;Johannes Lötzsch <github@johannesloetzsch.de>;1633998592;Merge 247140ec53559a24b16078d8b30d0e0ed4b224cd into 09b6fdd0ad15fb9906f48540ccd595e6ae4beb9d
+pre;omniscale_imposm3;b37b36d04352fb603c8eb9f4d1a73553941f9f76;François de Metz <francois@2metz.fr>;1633998592;Merge cd4a8aa80a64a6996901a16213abad21185f9237 into 09b6fdd0ad15fb9906f48540ccd595e6ae4beb9d
+pre;omniscale_imposm3;b97737dab0ac363990ad34cbc786292c5119ba1f;Yuri Astrakhan <yuriastrakhan@gmail.com>;1633998592;Merge a8120b69ac4557292f13bab0b393d38c96b776a5 into 09b6fdd0ad15fb9906f48540ccd595e6ae4beb9d
+pre;omniscale_imposm3;bf3f3e06dd2badec0767ca6de546de3d851a1f2a;Alex.o0 <coocy@users.noreply.github.com>;1633998592;Merge 25639745b1a5550a08e1da8d705d9093f1994ea2 into 09b6fdd0ad15fb9906f48540ccd595e6ae4beb9d
+pre;omniscale_imposm3;dc8f6305a6e3c121df2094ffc59c7a8943417818;Michael Hwang <hirehwang@gmail.com>;1633998592;Merge 1ca3b806e32988424dde1056039079cbdcbfcb4d into 09b6fdd0ad15fb9906f48540ccd595e6ae4beb9d
+pre;omniscale_imposm3;e0be4e924c6dd56cce8f70275986a223941db0d1;Simon Legner <Simon.Legner@gmail.com>;1633998592;Merge a0a0359d90c6102d95df08a7695166c53b3cde2f into 09b6fdd0ad15fb9906f48540ccd595e6ae4beb9d
+post;omniscale_imposm3;d7d603b5708b68eb65c3d957b865ee6cd713ac09;dflo <denisflorkin@gmail.com>;1657269928;"fix(naming) : type_mapping -> type_mappings
+
+Makes it easier to find the related documentation"
+post;omniscale_imposm3;3f6f8a89be9f24e606bb61884f6c7f0ee9968dce;François de Metz <francois@2metz.fr>;1659725869;Remove travis workflow
+post;omniscale_imposm3;c8accf3f32a8767141b37250b7a9dc496616bff7;François de Metz <francois@2metz.fr>;1659727093;Switch to github actions
+post;omniscale_imposm3;c8a1dbea3343211b11260a4b1a09c7cc7098a0b3;François de Metz <francois@2metz.fr>;1659982862;Update error to accomodate drift due to planet server maintenance
+post;omniscale_imposm3;90350e5d935244a227261a173daff427f2760466;François de Metz <francois@2metz.fr>;1659989361;Update strategy to test against multiple version of postgres and postgis
+post;omniscale_imposm3;fa7ebf777ad330a641865ec57f725f4b7fb8673d;François de Metz <francois@2metz.fr>;1659989725;Do not fail fast when a build fail
+post;omniscale_imposm3;c59b5fe3ad67fc87230aeca150a071fa39aeedfe;Oliver Tonnhofer <olt@bogosoft.com>;1661245589;test: check for linux/mac error messages
+post;omniscale_imposm3;98e5d699701085e3cb261fad3256c8cddbd66bae;Oliver Tonnhofer <olt@bogosoft.com>;1661245637;test: udpate expected sequences to accomodate drift due to planet server maintenance
+post;omniscale_imposm3;6d49d594d46ff3048a4a975b6a9258bd3785c79f;Oliver Tonnhofer <olt@bogosoft.com>;1661245678;Merge branch 'francois2metz-switch-gha'
+post;omniscale_imposm3;66ec78055bfcf7777fc9a716ab5a4f5e37ba49a1;Oliver Tonnhofer <olt@bogosoft.com>;1661246056;build: update protobuf deps
+pre;opensafely_long-covid-risk-factors-and-prediction;518d6975ea2f613686943471be7c31a36010d515;Yinghui Wei <91749253+yinghuiwei@users.noreply.github.com>;1674515870;"Merge pull request #54 from opensafely/outfile_name
+
+file name too long"
+pre;opensafely_long-covid-risk-factors-and-prediction;e36ee4180922c8318dc26c05e98b6387c04a41c2;Yinghui Wei <91749253+yinghuiwei@users.noreply.github.com>;1674516439;Update README.md
+pre;opensafely_long-covid-risk-factors-and-prediction;d6e04e8f4dc5d4e384fe55a8d664cf615bfb3f90;Yinghui Wei <91749253+yinghuiwei@users.noreply.github.com>;1677338163;update cohort names in an external plot for performance measures
+pre;opensafely_long-covid-risk-factors-and-prediction;9953b11083140f5d82599d313a4b25f02ada6702;Yinghui Wei <91749253+yinghuiwei@users.noreply.github.com>;1681497630;km curves by cohort: primary and post-covid diagnosis
+pre;opensafely_long-covid-risk-factors-and-prediction;617b654e8f76804464547ddd1769b802f8a27732;Yinghui Wei <91749253+yinghuiwei@users.noreply.github.com>;1681499393;"Merge pull request #55 from opensafely/figure-updates
+
+km curves by cohort: primary and post-covid diagnosis"
+pre;opensafely_long-covid-risk-factors-and-prediction;65da35a3917583241c0da6b679c507327f77470e;Yinghui Wei <91749253+yinghuiwei@users.noreply.github.com>;1682368236;bmi name update in hr plot
+pre;opensafely_long-covid-risk-factors-and-prediction;987dbc9cea568c4ed8d2bd0b27334b0359517627;Yinghui Wei <91749253+yinghuiwei@users.noreply.github.com>;1682444979;"history of disease ""diagnosis"""
+pre;opensafely_long-covid-risk-factors-and-prediction;fe44ab66c8886bea46c640dd4b84d52becfee971;Yinghui Wei <91749253+yinghuiwei@users.noreply.github.com>;1685535263;external km curves
+pre;opensafely_long-covid-risk-factors-and-prediction;7a87e6ec4c24b45fb28fa92120c0b84d90d411fb;Yinghui Wei <91749253+yinghuiwei@users.noreply.github.com>;1689072859;"Merge pull request #57 from opensafely/km-curves
+
+Km curves"
+pre;opensafely_long-covid-risk-factors-and-prediction;d4da17ba5f506be82052d0f29ea79b2c999c2bf0;Yinghui Wei <91749253+yinghuiwei@users.noreply.github.com>;1689074556;add preprint link
+post;opensafely_long-covid-risk-factors-and-prediction;b405cf5ed235b436eed9899f79142812ba96c320;Yinghui Wei <91749253+yinghuiwei@users.noreply.github.com>;1732624252;change the order of cohort to match the description in the manuscript
+pre;ziotom78_healpix.jl;b0e35e1be3dd6a41040a76018ddfa613e04abc85;Maurizio Tomasi <ziotom78@gmail.com>;1441992235;"New functions ang2vec and vec2ang
+
+Documentation and test cases have been added for both functions."
+pre;ziotom78_healpix.jl;f9cc48c823dc314bfdbe785e68e00066bcf7f45a;Maurizio Tomasi <ziotom78@gmail.com>;1442506360;"Cleaner formula for Resolution.ncap
+
+The new formula is clearer to read and has a more straightforward
+geometrical interpretation."
+pre;ziotom78_healpix.jl;91456461dd9a33b5e7380bb9c5d54dfa2db5f6d4;Maurizio Tomasi <ziotom78@gmail.com>;1442507614;"More tests for pix2angRing and pix2angNest
+
+The new tests check the coordinates for the centre of *every*
+pixel in a NSIDE=2 map (48 pixels)."
+pre;ziotom78_healpix.jl;2d8f7df32f196e2432ccd51435636a739cc4c15c;Maurizio Tomasi <ziotom78@gmail.com>;1442508642;"Make the implementation of pix2angRing clearer
+
+Comments have been introduced in the implementation. They cite the
+equations in Gorski et al. (2005) and better explain the logic."
+pre;ziotom78_healpix.jl;1ad47941c2036f52825354f8ec04f050186b84d1;Maurizio Tomasi <ziotom78@gmail.com>;1458809637;Remove deprecation warnings
+pre;ziotom78_healpix.jl;609793ef80107248208ed0fdc448c7c90c4ef968;Maurizio Tomasi <ziotom78@gmail.com>;1458810347;Add reference to mweastwood/LibHealpix.jl
+pre;ziotom78_healpix.jl;e5f9291fd15c489e95df4f4fefdf0e53d6a9a3f0;Maurizio Tomasi <ziotom78@gmail.com>;1458810397;Fix URL links
+pre;ziotom78_healpix.jl;f4da5c67c0316194e425577963530fee952c7967;Maurizio Tomasi <ziotom78@gmail.com>;1475076008;"Change UTF8String into String
+
+This removes warning messages when running Julia 0.5."
+pre;ziotom78_healpix.jl;e059cd4a8a7bffa45cef59c6c8d429c76f1db8da;Maurizio Tomasi <ziotom78@gmail.com>;1489142259;"Update the package to Julia 0.6 syntax
+
+Changes are not backward compatible with 0.5, so I avoid merging them
+to master at the moment."
+pre;ziotom78_healpix.jl;38411f1369ac4fcc3e09c5dd0bf5317065facaba;Maurizio Tomasi <ziotom78@gmail.com>;1489142968;Explain how to use Healpix.jl with Julia 0.6
+post;ziotom78_healpix.jl;153dea317e40a8b722e6ed5515debe9f398b0709;Maurizio Tomasi <maurizio.tomasi@unimi.it>;1516206421;Merge branch 'julia06'
+post;ziotom78_healpix.jl;911a7071613928ef3bdcd6364b019037949b75da;Maurizio Tomasi <maurizio.tomasi@unimi.it>;1516206631;"Fix docstrings
+
+They were unreadable under Visual Studio
+Code."
+post;ziotom78_healpix.jl;52942733d6dd3d2a4078129111a9e6b02bf6c934;Maurizio Tomasi <maurizio.tomasi@unimi.it>;1517036291;Simplify types and update to 0.6 syntax
+post;ziotom78_healpix.jl;b167090b170a2f8221c6c40c764c6299a5e0a607;Maurizio Tomasi <maurizio.tomasi@unimi.it>;1517036398;Update installation instructions
+post;ziotom78_healpix.jl;6c661e3eaec6b55d24f2f39bb69c4ba730305480;Maurizio Tomasi <maurizio.tomasi@unimi.it>;1517037118;"Import (instead of ""using"") Healpix"
+post;ziotom78_healpix.jl;9f5d4aa84aed8dc04179751abc24bc6eb3e0f7a1;Maurizio Tomasi <maurizio.tomasi@unimi.it>;1517037540;Split Healpix.jl in smaller files
+post;ziotom78_healpix.jl;654f34e4dea4f25998fe7fa80600e2e45d51698d;Maurizio Tomasi <maurizio.tomasi@unimi.it>;1517037851;"Save more information in FITS header
+
+New keywords: FIRSTPIX, LASTPIX, INDXSCHM"
+post;ziotom78_healpix.jl;4fec1d0f45fdb71da9a6e5a5c7d959ac63cc82e5;Maurizio Tomasi <maurizio.tomasi@unimi.it>;1517415883;"Add code to plot maps
+
+So far only Mollweide and equirectangular
+(cartesian) projections are supported."
+post;ziotom78_healpix.jl;95e6e911e7a6068baae3e8d3bb142211a2af23d9;Maurizio Tomasi <maurizio.tomasi@unimi.it>;1518088968;Specify types in struct
+post;ziotom78_healpix.jl;2ee228e24724d11532a4e33362fb26b5fec0032b;Maurizio Tomasi <maurizio.tomasi@unimi.it>;1518542657;Use keywords in Healpix.saveToFITS
